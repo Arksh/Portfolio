@@ -1,0 +1,2279 @@
+From: <Guardado por Windows Internet Explorer 8>
+Subject: =?Windows-1252?Q?Gu=EDa_de_Referencia_R=E1pida_CSS_2.1?=
+Date: Tue, 7 Dec 2010 19:46:00 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_005F_01CB9647.5FE097F0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3664
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_005F_01CB9647.5FE097F0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xml:lang=3D"es" =
+xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE>Gu=C3=ADa de =
+Referencia R=C3=A1pida CSS 2.1</TITLE>
+<META content=3D"text/html; charset=3DUTF-8" http-equiv=3Dcontent-type>
+<META content=3D"text/html; charset=3DUTF-8"><!-- Metadatos del Dublin =
+Core --><LINK=20
+rel=3Dschema.DCTERMS href=3D"http://purl.org/dc/terms/"><LINK =
+rel=3Dschema.DC=20
+href=3D"http://purl.org/dc/elements/1.1/">
+<META name=3DDC.title content=3D"Gu=C3=ADa de Referencia R=C3=A1pida CSS =
+2.1" xml:lang=3D"es">
+<META name=3DDC.subject=20
+content=3D"W3C; CSS; CSS2; CSS21; CSS 2.1; Hojas; Estilo; Referencia; =
+Gu=C3=ADa; R=C3=A1pida; Cascada; Style; Sheet; Cascading">
+<META name=3DDC.description=20
+content=3D"Gu=C3=ADa de referencia r=C3=A1pida para CSS 2.1 destinada =
+principalmente para los desarrolladores/as que poseen conocimientos de =
+las hojas de estilo."=20
+xml:lang=3D"es">
+<META name=3DDC.publisher content=3D"W3C Oficina Espa=C3=B1ola">
+<META scheme=3DDCTERMS.W3CDTF name=3DDC.date content=3D2006-01-19>
+<META scheme=3DDCTERMS.DCMIType name=3DDC.type content=3DText>
+<META name=3DDC.creator content=3D"W3C Oficina Espa=C3=B1ola">
+<META scheme=3DDCTERMS.IMT name=3DDC.format =
+content=3Dapplication/xhtml+xml>
+<META scheme=3DDCTERMS.URI name=3DDC.identifier =
+content=3Dhttp://www.w3c.es>
+<META scheme=3DDCTERMS.RFC1766 name=3DDC.language content=3Des>
+<META name=3DDC.rights =
+content=3Dhttp://www.w3.org/Consortium/Legal/><!-- Fin de los metadatos =
+del DC --><LINK=20
+rel=3Dstylesheet type=3Dtext/css=20
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/css/base.css"=
+><LINK=20
+rel=3Dstylesheet type=3Dtext/css=20
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/css/print.css=
+"=20
+media=3Dprint><LINK rel=3Dstylesheet type=3Dtext/css=20
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/css/aural.css=
+"=20
+media=3Daural>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18928"></HEAD>
+<BODY>
+<H1><A title=3D"P=C3=A1gina principal de la Oficina Espa=C3=B1ola del =
+W3C"=20
+href=3D"http://www.w3c.es/"><IMG alt=3D"Oficina espaola del W3C"=20
+src=3D"http://www.w3c.es/img/eslogo-20030729" width=3D279 =
+height=3D52></A> Gu=C3=ADa de=20
+Referencia <ACRONYM title=3D"Cascading Style Sheets" =
+xml:lang=3D"en">CSS</ACRONYM>=20
+2.1</H1>
+<DIV id=3Dbreadcrumbs>Est=C3=A1s en:=20
+<UL>
+  <LI><A title=3D"Sitio Web de la Oficina Espa=C3=B1ola del W3C"=20
+  href=3D"http://www.w3c.es/">Oficina Espa=C3=B1ola</A>=20
+  <UL>
+    <LI>=C2=BB <A title=3D"Informaci=C3=B3n y documentos divulgativos"=20
+    href=3D"http://www.w3c.es/Divulgacion">Documentos y Gu=C3=ADas</A>=20
+    <UL>
+      <LI>=C2=BB <A title=3D"Gu=C3=ADas de Referencia"=20
+      href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia">Gu=C3=ADas =
+de=20
+      Referencia</A>=20
+      <UL>
+        <LI>=C2=BB <SPAN=20
+class=3DcurrentPage>CSS</SPAN></LI></UL></LI></UL></LI></UL></LI></UL></D=
+IV>
+<P class=3Dherramientas><A title=3D"Comentario acerca de la =
+impresi=C3=B3n de la gu=C3=ADa"=20
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#ayuda">Ayuda=
+ a la=20
+impresi=C3=B3n</A></P>
+<H2 id=3Dcontenidos>Contenidos</H2>
+<UL class=3Dcontenidos>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#selectores">=
+Selectores</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#notacion">No=
+taci=C3=B3n</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#medios">Tipo=
+s de=20
+  medios</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#sintaxis">Si=
+ntaxis</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#unidades">Un=
+idades</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#modeloCajas"=
+>Modelo=20
+  de cajas</A>=20
+  <UL>
+    <LI><A=20
+    =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#margenes">M=C3=
+=A1rgenes</A></LI>
+    <LI><A=20
+    =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#relleno">Rel=
+leno</A></LI>
+    <LI><A=20
+    =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#bordes">Bord=
+es</A></LI></UL></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#formatoVisua=
+l">Modelo=20
+  de formato visual</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#detallesVisu=
+al">Detalles=20
+  del modelo de formato visual</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#efectosVisua=
+les">Efectos=20
+  visuales</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#contenidoGen=
+erado">Contenido=20
+  generado, numeraci=C3=B3n autom=C3=A1tica y listas</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#colores">Col=
+ores y=20
+  fondo</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#mediosPagina=
+dos">Medios=20
+  paginados</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#fuentes">Fue=
+ntes</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#texto">Texto=
+</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#tablas">Tabl=
+as</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#interfazUsua=
+rio">Interfaz=20
+  de usuario</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#referencias"=
+>Referencias</A></LI></UL>
+<H2 id=3Dselectores>Selectores</H2>
+<TABLE class=3Dselectores>
+  <CAPTION>Listado de selectores</CAPTION>
+  <THEAD>
+  <TR>
+    <TH>Patr=C3=B3n</TH>
+    <TH>Aplicado a:</TH>
+    <TH>Ejemplo</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>*</CODE></TD>
+    <TD>Cualquier elemento</TD>
+    <TD class=3Dejemplo><ACRONYM title=3D"No =
+disponible">N/D</ACRONYM></TD></TR>
+  <TR>
+    <TD><CODE>e</CODE></TD>
+    <TD>Elemento <CODE>&lt;e&gt;</CODE></TD>
+    <TD class=3Dejemplo><CODE>&lt;e&gt;</CODE></TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>e f</CODE></TD>
+    <TD>Cualquier <CODE>&lt;f&gt;</CODE> que est=C3=A9 incluido en=20
+      <CODE>&lt;e&gt;</CODE></TD>
+    <TD=20
+      =
+class=3Dejemplo><CODE>&lt;e&gt;...&lt;d&gt;...&lt;f/&gt;...&lt;/d&gt;...&=
+lt;/e&gt;</CODE></TD></TR>
+  <TR>
+    <TD><CODE>e &gt; f</CODE></TD>
+    <TD>Cualquier <CODE>&lt;f&gt;</CODE> que es hijo de=20
+    <CODE>&lt;e&gt;</CODE></TD>
+    <TD=20
+      =
+class=3Dejemplo><CODE>&lt;e&gt;...&lt;f&gt;...&lt;/f&gt;...&lt;/e&gt;</CO=
+DE></TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>e:first-child</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> cuando es el primer hijo de su elemento=20
+padre</TD>
+    <TD=20
+  =
+class=3Dejemplo><CODE>&lt;f&gt;&lt;e&gt;&lt;/e&gt;...&lt;/f&gt;</CODE></T=
+D></TR>
+  <TR>
+    <TD><CODE>e + f</CODE></TD>
+    <TD><CODE>&lt;f&gt;</CODE> si est=C3=A1 precedido inmediatamente por =
+un=20
+      <CODE>&lt;e&gt;</CODE></TD>
+    <TD class=3Dejemplo><CODE>...&lt;/e&gt; =
+&lt;f&gt;...&lt;f&gt;</CODE></TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>e[miAtr]</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> si posee el atributo =
+<CODE>"miAtr"</CODE></TD>
+    <TD class=3Dejemplo><CODE>&lt;e =
+miAtr=3D"xxx".../&gt;</CODE></TD></TR>
+  <TR>
+    <TD><CODE>e[miAtr=3D"v"]</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> si posee el atributo <CODE>"miAtr"</CODE> =
+y=20
+      este tiene el valor <CODE>"v"</CODE></TD>
+    <TD class=3Dejemplo><CODE>&lt;e miAtr=3D"v".../&gt;</CODE></TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>e[miAtr~=3D"v"]</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> si su atributo <CODE>"miAtr"</CODE> es =
+una=20
+      lista de valores separados por espacios y uno es =
+<CODE>"v"</CODE></TD>
+    <TD class=3Dejemplo><CODE>&lt;e miAtr=3D"x y z =
+v".../&gt;</CODE></TD></TR>
+  <TR>
+    <TD><CODE>e[lang|=3D"es"]</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> si su atributo <CODE>"lang"</CODE> es una =
+lista=20
+      de valores separados por guiones y comienza con =
+<CODE>"es"</CODE></TD>
+    <TD class=3Dejemplo><CODE>&lt;e lang=3D"es-ES" =
+.../&gt;</CODE></TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>e.miClase</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> cuya clase es <CODE>"miClase"</CODE></TD>
+    <TD class=3Dejemplo><CODE>&lt;e =
+class=3D"miClase".../&gt;</CODE></TD></TR>
+  <TR>
+    <TD><CODE>e#miId</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> cuyo identificador es =
+<CODE>miId</CODE></TD>
+    <TD class=3Dejemplo><CODE>&lt;e id=3D"miId".../&gt;</CODE></TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>a:link</CODE></TD>
+    <TD>Enlaces no visitados</TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR>
+    <TD><CODE>a:visited</CODE></TD>
+    <TD>Enlaces visitados</TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>e:active</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> cuando es activado (tiempo entre que se =
+pulsa=20
+      un bot=C3=B3n sobre =C3=A9l y se suelta)</TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR>
+    <TD><CODE>e:hover</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> cuando se posiciona el cursor sobre =
+=C3=A9l pero no=20
+      se activa</TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>e:focus</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> cuando tiene el foco posicionado en =
+=C3=A9l</TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR>
+    <TD><CODE>e:lang(c)</CODE></TD>
+    <TD><CODE>&lt;e&gt;</CODE> si est=C3=A1 marcado con el idioma =
+<CODE>c</CODE></TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>e:first-line</CODE></TD>
+    <TD>Primera l=C3=ADnea de <CODE>&lt;e&gt;</CODE></TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR>
+    <TD><CODE>e:first-letter</CODE></TD>
+    <TD>Primera letra de <CODE>&lt;e&gt;</CODE></TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR class=3Dimpar>
+    <TD id=3Dbefore><CODE>e:before</CODE></TD>
+    <TD>Aplica contenido antes de <CODE>&lt;e&gt;</CODE></TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR>
+    <TD id=3Dafter><CODE>e:after</CODE></TD>
+    <TD>Aplica contenido despu=C3=A9s del elemento =
+<CODE>&lt;e&gt;</CODE></TD>
+    <TD class=3Dejemplo>N/D</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>e , f</CODE></TD>
+    <TD>Aplica el mismo contenido a los elementos <CODE>&lt;e&gt;</CODE> =
+y=20
+      <CODE>&lt;f&gt;</CODE></TD>
+    <TD class=3Dejemplo>N/D</TD></TR></TBODY></TABLE><!-- Tipos de =
+medios y notaci=C3=B3n pueden ponerse en paralelo, ya que son =
+peque=C3=B1os -->
+<DIV id=3Dnotacion>
+<H2>Notaci=C3=B3n</H2>
+<TABLE>
+  <CAPTION>Notaci=C3=B3n</CAPTION>
+  <THEAD>
+  <TR>
+    <TH>Patr=C3=B3n</TH>
+    <TH>Descripci=C3=B3n</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>a b</CODE></TD>
+    <TD><CODE>a</CODE> seguido de <CODE>b</CODE></TD></TR>
+  <TR>
+    <TD><CODE>( a b )</CODE></TD>
+    <TD><CODE>a</CODE> y <CODE>b</CODE> agrupados</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>[ a | b ]</CODE></TD>
+    <TD><CODE>a</CODE> o <CODE>b</CODE></TD></TR>
+  <TR>
+    <TD><CODE>[ a || b ]</CODE></TD>
+    <TD><CODE>a</CODE> o <CODE>b</CODE> o ambos</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>a?</CODE></TD>
+    <TD><CODE>a</CODE> es opcional</TD></TR>
+  <TR>
+    <TD><CODE>a*</CODE></TD>
+    <TD>0 o varios <CODE>a</CODE></TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>a+</CODE></TD>
+    <TD>1 o varios <CODE>a</CODE></TD></TR>
+  <TR>
+    <TD><CODE>a {n, m}</CODE></TD>
+    <TD><CODE>a</CODE> como m=C3=ADnimo n veces y como m=C3=A1ximo=20
+m</TD></TR></TBODY></TABLE></DIV>
+<DIV id=3Dmedios>
+<H2>Tipos de Medios</H2>
+<TABLE>
+  <CAPTION>Tipos de medios o dispositivos soportados</CAPTION>
+  <THEAD>
+  <TR>
+    <TH>Nombre</TH>
+    <TH>Medio</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>all</CODE></TD>
+    <TD>Todos los dispositivos</TD></TR>
+  <TR>
+    <TD><CODE>braille</CODE></TD>
+    <TD>Dispositivos t=C3=A1ctiles braille</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>embossed</CODE></TD>
+    <TD>Impresoras braille</TD></TR>
+  <TR>
+    <TD><CODE>handheld</CODE></TD>
+    <TD>Dispositivos de mano (pantallas peque=C3=B1as, ancho de banda =
+reducido,=20
+      etc.)</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>print</CODE></TD>
+    <TD>Para documentos paginados y mostrados en vista de =
+impresi=C3=B3n</TD></TR>
+  <TR>
+    <TD><CODE>projection</CODE></TD>
+    <TD>Dispositivos de proyecci=C3=B3n de presentaciones</TD></TR>
+  <TR>
+    <TD><CODE>screen</CODE></TD>
+    <TD>Pantallas a color de equipos inform=C3=A1ticos</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>speech</CODE></TD>
+    <TD>Para sintetizadores de voz. Similar a "aural"</TD></TR>
+  <TR>
+    <TD><CODE>tty</CODE></TD>
+    <TD>Dispositivos de visualizaci=C3=B3n con capacidades =
+limitadas</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>tv</CODE></TD>
+    <TD>Televisores</TD></TR></TBODY></TABLE></DIV>
+<DIV id=3Dsintaxis>
+<H2>Sintaxis</H2><PRE>  <CODE>@import "hoja.css" tipo-medio;
+
+  /* Comentarios */
+
+  @media tipo-medio {
+    selector {=20
+      propiedad: valor-es;
+    }
+  }</CODE></PRE></DIV>
+<DIV id=3Dunidades>
+<H2>Unidades</H2>
+<DIV id=3Dlongitudes>
+<TABLE id=3DlongitudesRelativas>
+  <CAPTION>Longitudes relativas</CAPTION>
+  <THEAD>
+  <TR>
+    <TH>Unidad</TH>
+    <TH>Descripci=C3=B3n</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>px</CODE></TD>
+    <TD>P=C3=ADxeles (relativo al dispositivo)</TD></TR>
+  <TR>
+    <TD><CODE>em</CODE></TD>
+    <TD>Tama=C3=B1o de la fuente actual</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>ex</CODE></TD>
+    <TD>Alto del caracter 'x'</TD></TR></TBODY></TABLE>
+<TABLE id=3DlongitudesAbsolutas>
+  <CAPTION>Longitudes absolutas</CAPTION>
+  <THEAD>
+  <TR>
+    <TH>Unidad</TH>
+    <TH>Descripci=C3=B3n</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>in</CODE></TD>
+    <TD>Pulgadas (1pulgada =3D 2.54 <ABBR =
+title=3DCent=C3=ADmetros>cm</ABBR>)</TD></TR>
+  <TR>
+    <TD><CODE>cm</CODE></TD>
+    <TD>Cent=C3=ADmetros</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>mm</CODE></TD>
+    <TD>Mil=C3=ADmetros</TD></TR>
+  <TR>
+    <TD><CODE>pt</CODE></TD>
+    <TD>Puntos (1pt =3D 1/72pulgadas)</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>pc</CODE></TD>
+    <TD>Picas (1pica =3D 12 puntos)</TD></TR></TBODY></TABLE></DIV>
+<TABLE id=3Dporcentaje>
+  <CAPTION>Porcentaje</CAPTION>
+  <THEAD>
+  <TR>
+    <TH>Unidad</TH>
+    <TH>Descripci=C3=B3n</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>%</CODE></TD>
+    <TD>Porcentaje</TD></TR>
+  <TR>
+    <TD><CODE>0</CODE></TD>
+    <TD>No requiere unidad</TD></TR></TBODY></TABLE>
+<TABLE id=3DunidadesColores>
+  <CAPTION>Representaci=C3=B3n de los colores</CAPTION>
+  <THEAD>
+  <TR>
+    <TH>Unidad</TH>
+    <TH>Descripci=C3=B3n</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>#RRGGBB</CODE></TD>
+    <TD>Color <ACRONYM title=3D"Red Green Blue" =
+xml:lang=3D"en">RGB</ACRONYM> (6=20
+      Valores hexadecimales)</TD></TR>
+  <TR>
+    <TD><CODE>#RGB</CODE></TD>
+    <TD>Notaci=C3=B3n simplificada (#RGB =3D #RRGGBB)</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>rgb(R,G,B)</CODE></TD>
+    <TD>Color RGB (3 valores de 0 a 255)</TD></TR>
+  <TR>
+    <TD><CODE>rgb(R%,G%,B%)</CODE></TD>
+    <TD>Color RGB (3 valores =
+porcentuales)</TD></TR></TBODY></TABLE></DIV>
+<H2 id=3DmodeloCajas>Modelo de Cajas</H2>
+<P id=3DmodeloCajasImagen><IMG id=3Dmodelo-cajas alt=3D"Modelo de cajas" =
+
+src=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/img/box-model.=
+png"=20
+width=3D296 height=3D224></P>
+<DIV id=3DmargenesRelleno>
+<H3 id=3Dmargenes>M=C3=A1rgenes</H3>
+<TABLE>
+  <CAPTION>Propiedades de m=C3=A1rgenes</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    =
+<TD><CODE>margin-top</CODE><BR><CODE>margin-right</CODE><BR><CODE>margin-=
+bottom</CODE><BR><CODE>margin-left</CODE></TD>
+    <TD>Tama=C3=B1o del margen superior, derecho, inferior e =
+izquierdo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | <CODE>auto</CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>margin</CODE></TD>
+    <TD>Ancho para varios m=C3=A1rgenes individuales</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | <CODE>auto</CODE> ]{1,4}</TD></TR></TBODY></TABLE></DIV>
+<H3 id=3Drelleno>Relleno</H3>
+<TABLE>
+  <CAPTION>Propiedades de relleno</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    =
+<TD><CODE>padding-top</CODE><BR><CODE>padding-right</CODE><BR><CODE>paddi=
+ng-bottom</CODE><BR><CODE>padding-left</CODE></TD>
+    <TD>Ancho del relleno superior, derecho, inferior e izquierdo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      ]</TD></TR>
+  <TR>
+    <TD><CODE>padding</CODE></TD>
+    <TD>Tama=C3=B1os para varios rellenos individuales</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      ] {1,4}</TD></TR></TBODY></TABLE>
+<H3 id=3Dbordes>Bordes</H3>
+<TABLE class=3Dpropiedades>
+  <CAPTION>Propiedades de los bordes</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD=20
+      =
+id=3Dborder-top-width><CODE>border-top-width</CODE><BR><CODE>border-right=
+-width</CODE><BR><CODE>border-bottom-width</CODE><BR><CODE>border-left-wi=
+dth</CODE></TD>
+    <TD>Anchura del borde superior, derecho, inferior o izquierdo</TD>
+    <TD class=3Dvalores>[ <CODE>thin</CODE> |=20
+      <CODE><STRONG>medium</STRONG></CODE> | <CODE>thick</CODE> | &lt;<A =
+
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      ]</TD></TR>
+  <TR>
+    <TD id=3Dborder-width><CODE>border-width</CODE></TD>
+    <TD>Anchos de varios bordes individuales</TD>
+    <TD class=3Dvalores>[ <CODE>thin</CODE> | <CODE>medium</CODE> |=20
+      <CODE>thick</CODE> | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      ] {1,4}</TD></TR>
+  <TR class=3Dimpar>
+    <TD=20
+      =
+id=3Dborder-top-color><CODE>border-top-color</CODE><BR><CODE>border-right=
+-color</CODE><BR><CODE>border-bottom-color</CODE><BR><CODE>border-left-co=
+lor</CODE></TD>
+    <TD>Color del borde superior, derecho, inferior o izquierdo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#unidadesColo=
+res">color</A>&gt;=20
+      | <CODE>transparent</CODE> ]</TD></TR>
+  <TR>
+    <TD id=3Dborder-color><CODE>border-color</CODE></TD>
+    <TD>Colores de varios bordes individuales</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#unidadesColo=
+res">color</A>&gt;=20
+      | <CODE>transparent</CODE> ] {1,4}</TD></TR>
+  <TR class=3Dimpar>
+    <TD=20
+      =
+id=3Dborder-top-style><CODE>border-top-style</CODE><BR><CODE>border-right=
+-style</CODE><BR><CODE>border-bottom-style</CODE><BR><CODE>border-left-st=
+yle</CODE></TD>
+    <TD>Estilo del borde superior, derecho, inferior o izquierdo</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>none</STRONG></CODE> |=20
+      <CODE>hidden</CODE> | <CODE>dotted</CODE> | <CODE>dashed</CODE> |=20
+      <CODE>solid</CODE> | <CODE>double</CODE> | <CODE>groove</CODE> |=20
+      <CODE>ridge</CODE> | <CODE>inset</CODE> | <CODE>outset</CODE> =
+]</TD></TR>
+  <TR>
+    <TD id=3Dborder-style><CODE>border-style</CODE></TD>
+    <TD>Estilos de varios bordes individuales</TD>
+    <TD class=3Dvalores>[ <CODE>none</CODE> | <CODE>hidden</CODE> |=20
+      <CODE>dotted</CODE> | <CODE>dashed</CODE> | <CODE>solid</CODE> |=20
+      <CODE>double</CODE> | <CODE>groove</CODE> | <CODE>ridge</CODE> |=20
+      <CODE>inset</CODE> | <CODE>outset</CODE> ] {1,4}</TD></TR>
+  <TR class=3Dimpar>
+    =
+<TD><CODE>border-top</CODE><BR><CODE>border-right</CODE><BR><CODE>border-=
+bottom</CODE><BR><CODE>border-left</CODE></TD>
+    <TD>Ancho, estilo y el color para el borde superior, derecho, =
+inferior o=20
+      izquierdo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#border-top-w=
+idth">border-top-width</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#border-top-s=
+tyle">border-top-style</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#border-top-c=
+olor">border-top-color</A>&gt;=20
+      ]</TD></TR>
+  <TR>
+    <TD><CODE>border</CODE></TD>
+    <TD>Ancho, el estilo y el color para los 4 bordes</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#border-top-w=
+idth">border-top-width</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#border-top-s=
+tyle">border-top-style</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#border-top-c=
+olor">border-top-color</A>&gt;=20
+      ]</TD></TR></TBODY></TABLE>
+<H2 id=3DformatoVisual>Modelo de formato visual</H2>
+<TABLE>
+  <CAPTION>Propiedades de formato visual</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>display</CODE></TD>
+    <TD>Comportamiento del contenedor</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>inline</STRONG></CODE> |=20
+      <CODE>block</CODE> | <CODE>list-item</CODE> | <CODE>run-in</CODE> =
+|=20
+      <CODE>inline-block</CODE> | <CODE>table</CODE> | =
+<CODE>inline-table</CODE>=20
+      | <CODE>table-row-group</CODE> | <CODE>table-header-group</CODE> | =
+
+      <CODE>table-footer-group</CODE> | <CODE>table-row</CODE> |=20
+      <CODE>table-column-group</CODE> | <CODE>table-column</CODE> |=20
+      <CODE>table-cell</CODE> | <CODE>table-caption</CODE> | =
+<CODE>none</CODE>=20
+    ]</TD></TR>
+  <TR>
+    <TD><CODE>position</CODE></TD>
+    <TD>Esquema de posicionamiento</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>static</STRONG></CODE> |=20
+      <CODE>relative</CODE> | <CODE>absolute</CODE> | <CODE>fixed</CODE> =
+]</TD></TR>
+  <TR class=3Dimpar>
+    =
+<TD><CODE>top</CODE><BR><CODE>right</CODE><BR><CODE>bottom</CODE><BR><COD=
+E>left</CODE></TD>
+    <TD>Desplazamiento de la caja (respecto al l=C3=ADmite superior, =
+derecho,=20
+      inferior o izquierdo del contenedor)</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | <CODE><STRONG>auto</STRONG></CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>float</CODE></TD>
+    <TD>Posicionamiento flotante</TD>
+    <TD class=3Dvalores>[ <CODE>left</CODE> | <CODE>right</CODE> |=20
+      <CODE><STRONG>none</STRONG></CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>clear</CODE></TD>
+    <TD>Control de cajas adyacentes a los <CODE>float</CODE></TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>none</STRONG></CODE> | =
+<CODE>left</CODE>=20
+      | <CODE>right</CODE> | <CODE>both</CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>z-index</CODE></TD>
+    <TD>Solapamiento de niveles de capas</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>auto</STRONG></CODE> |=20
+      &lt;entero_con_signo&gt; ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>direction</CODE></TD>
+    <TD>Sentido direccional de la escritura</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>ltr</STRONG></CODE> | =
+<CODE>rtl</CODE>=20
+    ]</TD></TR>
+  <TR>
+    <TD><CODE>unicode-bidi</CODE></TD>
+    <TD>Sentido direccional de la escritura</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>normal</STRONG></CODE> |=20
+      <CODE>embed</CODE> | <CODE>bidi-override</CODE> =
+]</TD></TR></TBODY></TABLE>
+<H2 id=3DdetallesVisual>Detalles del modelo de formato visual</H2>
+<TABLE>
+  <CAPTION>Propiedades de los detalles formato visual</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>width</CODE></TD>
+    <TD>Ancho</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | <CODE><STRONG>auto</STRONG></CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>min-width</CODE></TD>
+    <TD>Ancho m=C3=ADnimo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>max-width</CODE></TD>
+    <TD>Ancho m=C3=A1ximo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | <CODE><STRONG>none</STRONG></CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>height</CODE></TD>
+    <TD>Alto</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | <CODE><STRONG>auto</STRONG></CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>min-height</CODE></TD>
+    <TD>Alto m=C3=ADnimo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      ]</TD></TR>
+  <TR>
+    <TD><CODE>max-height</CODE></TD>
+    <TD>Alto m=C3=A1ximo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | <CODE><STRONG>none</STRONG></CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD id=3Dline-height><CODE>line-height</CODE></TD>
+    <TD>Altura entre las bases del texto</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>normal</STRONG></CODE> | =
+&lt;n=C3=BAmero&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      ]</TD></TR>
+  <TR>
+    <TD><CODE>vertical-align</CODE></TD>
+    <TD>Alineaci=C3=B3n vertical del texto</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>baseline</STRONG></CODE> |=20
+      <CODE>sub</CODE> | <CODE>super</CODE> | <CODE>top</CODE> |=20
+      <CODE>text-top</CODE> | <CODE>middle</CODE> | <CODE>bottom</CODE> =
+|=20
+      <CODE>text-bottom</CODE> | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      ]</TD></TR></TBODY></TABLE>
+<H2 id=3DefectosVisuales>Efectos visuales</H2>
+<TABLE>
+  <CAPTION>Propiedades para efectos visuales</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>overflow</CODE></TD>
+    <TD>Comportamiento del contenido si se desborda en la caja</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>visible</STRONG></CODE> |=20
+      <CODE>hidden</CODE> | <CODE>scroll</CODE> | <CODE>auto</CODE> =
+]</TD></TR>
+  <TR>
+    <TD><CODE>clip</CODE></TD>
+    <TD>Especifica la regi=C3=B3n visible del elemento</TD>
+    <TD class=3Dvalores>[ <CODE>rect (</CODE>&lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;,=20
+      &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;,=20
+      &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;,=20
+      &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;<CODE>)</CODE>=20
+      | <CODE><STRONG>auto</STRONG></CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>visibility</CODE></TD>
+    <TD>Visibilidad de las cajas</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>visible</STRONG></CODE> |=20
+      <CODE>hidden</CODE> | <CODE>collapse</CODE> =
+]</TD></TR></TBODY></TABLE>
+<H2 id=3DcontenidoGenerado>Contenido generado, numeraci=C3=B3n =
+autom=C3=A1tica y listas</H2>
+<TABLE>
+  <CAPTION>Propiedades para contenido generado, numeraci=C3=B3n =
+autom=C3=A1tica y=20
+  listas</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>content</CODE></TD>
+    <TD>Agregador de contenido para <A=20
+      title=3D"Descripci=C3=B3n del pseudoelemento :after"=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#after"><CODE=
+>:after</CODE></A>=20
+      y <A title=3D"Descripci=C3=B3n del pseudoelemento :before"=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#before"><COD=
+E>:before</CODE></A></TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>normal</STRONG></CODE> |=20
+      <CODE>none</CODE> | [ &lt;texto&gt; | &lt;uri&gt; | =
+&lt;contador&gt; |=20
+      <CODE>attr(X)</CODE> | <CODE>open-quote</CODE> | =
+<CODE>close-quote</CODE>=20
+      | <CODE>no-open-quote</CODE> | <CODE>no-close-quote</CODE>]+ =
+]</TD></TR>
+  <TR>
+    <TD><CODE>quotes</CODE></TD>
+    <TD>Especifica las marcas para indicar las citas</TD>
+    <TD class=3Dvalores>[ [ &lt;texto&gt; &lt;texto&gt; ]+ | =
+<CODE>none</CODE>=20
+    ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>counter-reset</CODE></TD>
+    <TD>Inicializa un contador</TD>
+    <TD class=3Dvalores>[ [ &lt;identificador&gt; &lt;entero&gt;? ]+ |=20
+      <CODE><STRONG>none</STRONG></CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>counter-increment</CODE></TD>
+    <TD>Incrementa un contador</TD>
+    <TD class=3Dvalores>[ [ &lt;identificador&gt; &lt;entero&gt;? ]+ |=20
+      <CODE><STRONG>none</STRONG></CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD id=3Dlist-style-type><CODE>list-style-type</CODE></TD>
+    <TD>Estilo aplicable a los marcadores visuales de las listas</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>disc</STRONG></CODE> |=20
+      <CODE>circle</CODE> | <CODE>square</CODE> | <CODE>decimal</CODE> | =
+
+      <CODE>decimal-leading-zero</CODE> | <CODE>lower-roman</CODE> |=20
+      <CODE>upper-roman</CODE> | <CODE>lower-greek</CODE> |=20
+      <CODE>lower-latin</CODE> | <CODE>upper-latin</CODE> |=20
+      <CODE>armenian</CODE> | <CODE>georgian</CODE> | =
+<CODE>lower-alpha</CODE> |=20
+      <CODE>upper-alpha</CODE> | <CODE>none</CODE> ]</TD></TR>
+  <TR id=3Dlist-style-image>
+    <TD><CODE>list-style-image</CODE></TD>
+    <TD>Imagen aplicable a los elementos de las listas</TD>
+    <TD class=3Dvalores>[ <CODE>url("</CODE>http://...<CODE>")</CODE> |=20
+      <CODE><STRONG>none</STRONG></CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD id=3Dlist-style-position><CODE>list-style-position</CODE></TD>
+    <TD>Posici=C3=B3n dentro de la lista de los elementos marcadores de =
+las=20
+    listas</TD>
+    <TD class=3Dvalores>[ <CODE>inside</CODE> |=20
+      <CODE><STRONG>outside</STRONG></CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>list-style</CODE></TD>
+    <TD>Permite establecer el estilo de la lista, la imagen y/o la =
+posici=C3=B3n</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#list-style-t=
+ype">list-style-type</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#list-style-p=
+osition">list-style-position</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#list-style-i=
+mage">list-style-image</A>&gt;=20
+      ]</TD></TR></TBODY></TABLE>
+<H2 id=3Dcolores>Colores y Fondo</H2>
+<TABLE>
+  <CAPTION>Propiedades para gesti=C3=B3n de colores y fondo</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD id=3Dcolor><CODE>color</CODE></TD>
+    <TD>Color del primer plano<CODE></CODE></TD>
+    <TD class=3Dvalores>&lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#unidadesColo=
+res">color</A>&gt;</TD></TR>
+  <TR>
+    <TD id=3Dbackground-color><CODE>background-color</CODE></TD>
+    <TD>Color de fondo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#unidadesColo=
+res">color</A>&gt;=20
+      | <CODE><STRONG>transparent</STRONG></CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD id=3Dbackground-image><CODE>background-image</CODE></TD>
+    <TD>Imagen de fondo</TD>
+    <TD class=3Dvalores>[ <CODE>url(</CODE>...<CODE>)</CODE> |=20
+      <CODE><STRONG>none</STRONG></CODE> ]</TD></TR>
+  <TR>
+    <TD id=3Dbackground-repeat><CODE>background-repeat</CODE></TD>
+    <TD>Repetici=C3=B3n de la imagen de fondo</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>repeat</STRONG></CODE> |=20
+      <CODE>repeat-x</CODE> | <CODE>repeat-y</CODE> | =
+<CODE>no-repeat</CODE>=20
+  ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD =
+id=3Dbackground-attachment><CODE>background-attachment</CODE></TD>
+    <TD>Desplazamiento de la imagen de fondo</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>scroll</STRONG></CODE> |=20
+      <CODE>fixed</CODE> ]</TD></TR>
+  <TR>
+    <TD id=3Dbackground-position><CODE>background-position</CODE></TD>
+    <TD>Posici=C3=B3n de la imagen de fondo</TD>
+    <TD class=3Dvalores>[ [ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | <CODE>left</CODE> | <CODE>center</CODE> | <CODE>right</CODE> ] [ =
+&lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | <CODE>top</CODE> | <CODE>center</CODE> | <CODE>bottom</CODE>]? ] =
+| [ [=20
+      <CODE>left</CODE> | <CODE>center</CODE> | <CODE>right</CODE> ] || =
+[=20
+      <CODE>top</CODE> | <CODE>center</CODE> | <CODE>bottom</CODE> ] =
+]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>background</CODE></TD>
+    <TD>Propiedades individuales relacionadas con el fondo</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#background-c=
+olor">background-color</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#background-i=
+mage">background-image</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#background-r=
+epeat">background-repeat</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#background-a=
+ttachment">background-attachment</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#background-p=
+osition">background-position</A>&gt;=20
+      ]</TD></TR></TBODY></TABLE>
+<DIV id=3DmediosPaginados>
+<H2>Medios paginados</H2>
+<TABLE>
+  <CAPTION>Propiedades para medios paginados</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>page-break-before</CODE></TD>
+    <TD>Gestionar saltos de p=C3=A1gina antes del elemento</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>auto</STRONG></CODE> |=20
+      <CODE>always</CODE> | <CODE>avoid</CODE> | <CODE>left</CODE> |=20
+      <CODE>right</CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>page-break-after</CODE></TD>
+    <TD>Gestionar saltos de p=C3=A1gina posterior al elemento</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>auto</STRONG></CODE> |=20
+      <CODE>always</CODE> | <CODE>avoid</CODE> | <CODE>left</CODE> |=20
+      <CODE>right</CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>page-break-inside</CODE></TD>
+    <TD>Evita los saltos de l=C3=ADnea en el interior del elemento</TD>
+    <TD class=3Dvalores>[ <CODE>avoid</CODE> |=20
+      <CODE><STRONG>auto</STRONG></CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>orphans</CODE></TD>
+    <TD>M=C3=ADnimo n=C3=BAmero de l=C3=ADneas de un p=C3=A1rrafo que =
+deben ser dejadas como=20
+      m=C3=ADnimo al final de una p=C3=A1gina</TD>
+    <TD>&lt;entero&gt;</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>widows</CODE></TD>
+    <TD>M=C3=ADnimo n=C3=BAmero de l=C3=ADneas de un p=C3=A1rrafo que =
+deben ser dejadas como=20
+      m=C3=ADnimo al principio de una p=C3=A1gina</TD>
+    <TD>&lt;entero&gt;</TD></TR></TBODY></TABLE></DIV>
+<H2 id=3Dfuentes>Fuentes</H2>
+<TABLE>
+  <CAPTION>Propiedades para gesti=C3=B3n de fuentes =
+tipogr=C3=A1ficas</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>font-family</CODE></TD>
+    <TD>Familias de fuentes</TD>
+    <TD class=3Dvalores>[ [ &lt;nombre-familia&gt; | =
+&lt;familia-gen=C3=A9rica&gt; ]=20
+      [, &lt;nombre-familia&gt; | &lt;familia-gen=C3=A9rica&gt; ]* =
+]</TD></TR>
+  <TR>
+    <TD id=3Dfont-style><CODE>font-style</CODE></TD>
+    <TD>Estilo de la fuente</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>normal</STRONG></CODE> |=20
+      <CODE>italic</CODE> | <CODE>oblique</CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD id=3Dfont-variant><CODE>font-variant</CODE></TD>
+    <TD>Convierte las min=C3=BAsculas a may=C3=BAsculas pero mantienen =
+un tama=C3=B1o=20
+      inferior a las may=C3=BAsculas</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>normal</STRONG></CODE> |=20
+      <CODE>small-caps</CODE> ]</TD></TR>
+  <TR>
+    <TD id=3Dfont-weight><CODE>font-weight</CODE></TD>
+    <TD>Intensidad de la fuente</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>normal</STRONG></CODE> |=20
+      <CODE>bold</CODE> | <CODE>bolder</CODE> | <CODE>lighter</CODE> |=20
+      <CODE>100</CODE> | <CODE>200</CODE> | <CODE>300</CODE> |=20
+      <CODE><STRONG>400</STRONG></CODE> | <CODE>500</CODE> | =
+<CODE>600</CODE> |=20
+      <CODE>700</CODE> | <CODE>800</CODE> | <CODE>900</CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD id=3Dfont-size><CODE>font-size</CODE></TD>
+    <TD>Tama=C3=B1o de la fuente</TD>
+    <TD class=3Dvalores>[ [ <CODE>xx-small</CODE> | <CODE>x-small</CODE> =
+|=20
+      <CODE>small</CODE> | <CODE><STRONG>medium</STRONG></CODE> |=20
+      <CODE>large</CODE> | <CODE>x-large</CODE> | <CODE>xx-large</CODE>] =
+|=20
+      [<CODE>larger</CODE> | <CODE>smaller</CODE>] | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      ]</TD></TR>
+  <TR>
+    <TD id=3Dfont><CODE>font</CODE></TD>
+    <TD>Atajo para establecer el resto de propiedades sobre las fuentes =
+a la=20
+      vez</TD>
+    <TD class=3Dvalores>[ [ [ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#font-style">=
+font-style</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#font-variant=
+">font-variant</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#font-weight"=
+>font-weight</A>&gt;=20
+      ]? &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#font-size">f=
+ont-size</A>&gt;=20
+      [ / &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#line-height"=
+>line-height</A>&gt;=20
+      ]? &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#font-family"=
+>font-family</A>&gt;=20
+      ] | <CODE>caption</CODE> | <CODE>icon</CODE> | <CODE>menu</CODE> | =
+
+      <CODE>message-box</CODE> | <CODE>small-caption</CODE> |=20
+      <CODE>status-bar</CODE> ]</TD></TR></TBODY></TABLE>
+<H2 id=3Dtexto>Texto</H2>
+<TABLE>
+  <CAPTION>Propiedades para el texto</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>text-indent</CODE></TD>
+    <TD>Desplazamiento de la primera l=C3=ADnea del texto</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#porcentaje">=
+porcentaje</A>&gt;=20
+      ]</TD></TR>
+  <TR>
+    <TD><CODE>text-align</CODE></TD>
+    <TD>Alineamiento del texto</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>left</STRONG></CODE> |=20
+      <CODE>right</CODE> | <CODE>center</CODE> | <CODE>justify</CODE> =
+]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>text-decoration</CODE></TD>
+    <TD>Efectos de subrayado, tachado, parpadeo</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>none</STRONG></CODE> | [=20
+      <CODE>underline</CODE> || <CODE>overline</CODE> ||=20
+      <CODE>line-through</CODE> || <CODE>blink</CODE> ] ]</TD></TR>
+  <TR>
+    <TD><CODE>letter-spacing</CODE></TD>
+    <TD>Espacio entre caracteres</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>normal</STRONG></CODE> | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>word-spacing</CODE></TD>
+    <TD>Espacio entre palabras</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>normal</STRONG></CODE> | &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      ]</TD></TR>
+  <TR>
+    <TD><CODE>text-transform</CODE></TD>
+    <TD>Transformaciones del texto a =
+may=C3=BAsculas/min=C3=BAsculas</TD>
+    <TD class=3Dvalores>[ <CODE>capitalize</CODE> | =
+<CODE>uppercase</CODE> |=20
+      <CODE>lowercase</CODE> | <CODE><STRONG>none</STRONG></CODE> =
+]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>white-space</CODE></TD>
+    <TD>Comportamiento de los espacios dentro de los elementos</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>normal</STRONG></CODE> |=20
+      <CODE>pre</CODE> | <CODE>nowrap</CODE> | <CODE>pre-wrap</CODE> |=20
+      <CODE>pre-line</CODE> ]</TD></TR></TBODY></TABLE>
+<H2 id=3Dtablas>Tablas</H2>
+<TABLE>
+  <CAPTION>Propiedades para el texto</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>caption-side</CODE></TD>
+    <TD>Posici=C3=B3n del t=C3=ADtulo de respecto la tabla</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>top</STRONG></CODE> |=20
+      <CODE>bottom</CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>table-layout</CODE></TD>
+    <TD>Control del algoritmo usado para el formato de las celdas, filas =
+y=20
+      columnas</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>auto</STRONG></CODE> |=20
+      <CODE>fixed</CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>border-collapse</CODE></TD>
+    <TD>Selecci=C3=B3n del modelo de los bordes</TD>
+    <TD class=3Dvalores>[ <CODE>collapse</CODE> |=20
+      <CODE><STRONG>separate</STRONG></CODE> ]</TD></TR>
+  <TR>
+    <TD><CODE>border-spacing</CODE></TD>
+    <TD>Espaciado entre los bordes de celdas adyacentes</TD>
+    <TD class=3Dvalores>&lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;=20
+      &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#longitudesRe=
+lativas">longitud</A>&gt;?</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>empty-cells</CODE></TD>
+    <TD>Visibilidad de los bordes de celdas sin contenido</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>show</STRONG></CODE> | =
+<CODE>hide</CODE>=20
+      ]</TD></TR></TBODY></TABLE>
+<H2 id=3DinterfazUsuario>Interfaz de usuario</H2>
+<TABLE>
+  <CAPTION>Propiedades para el interfaz con el usuario</CAPTION>
+  <THEAD>
+  <TR>
+    <TH class=3Dpropiedad>Propiedad</TH>
+    <TH class=3Ddescripcion>Descripci=C3=B3n</TH>
+    <TH class=3Dvalores>Valores</TH></TR></THEAD>
+  <TBODY>
+  <TR class=3Dimpar>
+    <TD><CODE>cursor</CODE></TD>
+    <TD>Especifica el cursor</TD>
+    <TD class=3Dvalores>[ [<CODE>http://.../cursor.ico,</CODE>]* [=20
+      <CODE><STRONG>auto</STRONG></CODE> | <CODE>crosshair</CODE> |=20
+      <CODE>default</CODE> | <CODE>pointer</CODE> | <CODE>move</CODE> |=20
+      <CODE>e-resize</CODE> | <CODE>ne-resize</CODE> | =
+<CODE>nw-resize</CODE> |=20
+      <CODE>n-resize</CODE> | <CODE>se-resize</CODE> | =
+<CODE>sw-resize</CODE> |=20
+      <CODE>s-resize</CODE> | <CODE>w-resize</CODE> | <CODE>text</CODE> =
+|=20
+      <CODE>wait</CODE> | <CODE>help</CODE> | <CODE>progress</CODE> ] =
+]</TD></TR>
+  <TR>
+    <TD id=3Doutline-width><CODE>outline-width</CODE></TD>
+    <TD>Ancho de la l=C3=ADnea exterior</TD>
+    <TD class=3Dvalores>&lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#border-width=
+">border-width</A>&gt;</TD></TR>
+  <TR class=3Dimpar>
+    <TD id=3Doutline-style><CODE>outline-style</CODE></TD>
+    <TD>Estilo de la l=C3=ADnea exterior</TD>
+    <TD class=3Dvalores>&lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#border-style=
+">border-style</A>&gt;</TD></TR>
+  <TR>
+    <TD id=3Doutline-color><CODE>outline-color</CODE></TD>
+    <TD>Color de la l=C3=ADnea exterior</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#unidadesColo=
+res"></A><A>color</A>&gt;=20
+      | <CODE><STRONG>invert</STRONG></CODE> ]</TD></TR>
+  <TR class=3Dimpar>
+    <TD><CODE>outline</CODE></TD>
+    <TD>Propiedades individuales de la l=C3=ADnea exterior.</TD>
+    <TD class=3Dvalores>[ &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#outline-colo=
+r">outline-color</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#outline-styl=
+e">outline-style</A>&gt;=20
+      || &lt;<A=20
+      =
+href=3D"http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/#outline-widt=
+h">outline-width</A>&gt;=20
+      ]</TD></TR>
+  <TR>
+    <TD><CODE>speak-header</CODE></TD>
+    <TD>(Aural) Indica si las cabeceras de la tabla se leen antes de =
+cada=20
+    celda</TD>
+    <TD class=3Dvalores>[ <CODE><STRONG>once</STRONG></CODE> |=20
+      <CODE>always</CODE> ]</TD></TR></TBODY></TABLE>
+<HR>
+
+<UL id=3Dreferencias>
+  <LI><A title=3D"Acceso a la especificaci=C3=B3n de CSS oficial"=20
+  href=3D"http://www.w3.org/TR/CSS21" hreflang=3Den>Especificaci=C3=B3n =
+de=20
+CSS2.1</A></LI>
+  <LI><A title=3D"P=C3=A1gina principal de la Oficina Espa=C3=B1ola del =
+W3C"=20
+  href=3D"http://www.w3c.es/">Oficina Espa=C3=B1ola W3C</A></LI></UL>
+<DIV id=3Dayuda>
+<H2>Ayuda a la impresi=C3=B3n</H2>
+<P>Para la impresi=C3=B3n ajustada de la gu=C3=ADa en un formato =
+<ACRONYM=20
+title=3D"Deutsches Institut f=C3=BCr Normung" =
+xml:lang=3D"de">DIN</ACRONYM> A4 se=20
+recomienda el uso de un navegador que soporte las hojas de estilo CSS 2. =
+En las=20
+opciones de impresi=C3=B3n puede habilitarse el fondo para que aparezcan =
+los colores.=20
+Adem=C3=A1s, para conseguir una correcta estructura del documento en 4 =
+p=C3=A1ginas,=20
+deber=C3=ADan establecerse unos m=C3=A1rgenes laterales (izquierdo y =
+derecho) con el valor=20
+0.</P></DIV>
+<DIV id=3Dpiepagina>
+<HR>
+<A id=3Dpiepg class=3Dinvisible>final de la p=C3=A1gina</A>=20
+<ADDRESS><A href=3D"http://www.fundacionctic.org/"><IMG =
+alt=3D"Fundaci=C3=B3n CTIC"=20
+src=3D"http://www.w3c.es/img/ctic.png" width=3D103 =
+height=3D32></A>&nbsp;<A=20
+href=3D"http://validator.w3.org/check/referer" hreflang=3Den-us><IMG=20
+alt=3D"=C2=A1XHTML v=C3=A1lido 1.1!" =
+src=3D"http://www.w3.org/Icons/valid-xhtml11" width=3D88=20
+height=3D31></A> </ADDRESS>
+<P class=3Dsmall><A href=3D"mailto:webmaster@w3c.es">Webmaster</A> =
+=C2=B7 =C3=9Altima=20
+modificaci=C3=B3n:06/05/2010 03:05PM <BR></P>
+<P class=3Dcopyright><A=20
+href=3D"http://www.w3.org/Consortium/Legal/ipr-notice#Copyright" =
+hreflang=3Den-us=20
+rel=3DCopyright><BR>Copyright</A> =C2=A9 1994-2010 <A =
+href=3D"http://www.w3.org/"=20
+hreflang=3Den-us><ACRONYM title=3D"World Wide Web Consortium"=20
+xml:lang=3D"en-us">W3C</ACRONYM></A><SUP>=C2=AE</SUP> (<A=20
+href=3D"http://www.lcs.mit.edu/" hreflang=3Den-us><ACRONYM=20
+title=3D"Massachusetts Institute of Technology"=20
+xml:lang=3D"en-us">MIT</ACRONYM></A>, <A href=3D"http://www.ercim.org/"=20
+hreflang=3Den-us><ACRONYM=20
+title=3D"European Research Consortium for Informatics and Mathematics"=20
+xml:lang=3D"en-us">ERCIM</ACRONYM></A>, <A =
+href=3D"http://www.keio.ac.jp/"=20
+hreflang=3Den-us>Keio</A>), Todos los derechos reservados. Son =
+aplicables las=20
+reglas de <A=20
+href=3D"http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer"=20
+hreflang=3Den-us>responsabilidad</A>, <A=20
+href=3D"http://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks"=20
+hreflang=3Den-us>marcas registradas</A>, <A=20
+href=3D"http://www.w3.org/Consortium/Legal/copyright-documents" =
+hreflang=3Den-us=20
+rel=3DCopyright>utilizaci=C3=B3n de documentos</A> y <A=20
+href=3D"http://www.w3.org/Consortium/Legal/copyright-software" =
+hreflang=3Den-us=20
+rel=3DCopyright>licencias de software</A>. Las interacciones con este =
+sitio est=C3=A1n=20
+de acuerdo con nuestra declaraci=C3=B3n de privacidad de <A=20
+href=3D"http://www.w3.org/Consortium/Legal/privacy-statement#Public"=20
+hreflang=3Den-us>usuarios</A> y <A=20
+href=3D"http://www.w3.org/Consortium/Legal/privacy-statement#Members"=20
+hreflang=3Den-us>miembros</A>.</P></DIV></BODY></HTML>
+
+------=_NextPart_000_005F_01CB9647.5FE097F0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://www.w3c.es/img/eslogo-20030729
+
+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
+CAAEGACkyfa5m1L16QAAAABJRU5ErkJggg==
+
+------=_NextPart_000_005F_01CB9647.5FE097F0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/img/box-model.png
+
+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
+7iYvM48pNz6JzWaro6141l9fqFynfy1bVufLFo2grjgFWZUHxANCA2tt892nmwm/uiV3jhsKwNj3
+JnJ/iz8Tv/8EAE0jwxj61N0AZD6cweaPN+Hh7UmTyDAyT2fQsktr1s//ktBWTYgacwcA988ZzQMR
+95CRmA5A8w4tGDJxOAC3PhTF1mVbqtSQEpdM7O5jTP1iFm4ebkR0bsX25d8DsHvtTtw93bhn2n0A
+tO4eyaMdH2T/pj10vema32U71aTcZmPmggXkFhZyR+/e9OvSBYCsvDzmrVlDVn4+t/XujbeHB/9Z
+tYp2zZoxatAgfRJ4CSmgrjCNmgUBkJ2SRaOwoCrzTh1KIKh5MClxyTTv0MIx3dXdjdBWTUk9kfxj
+H8GOeZ4NvKiwVVRbTkpsErHRxxl7zd8c0xqHNyYnPaeyj58tu6Y+0hPS8G8cgJuHW2UNbq40jgit
+7PtECs07hDvamkwmmrVvQcqJFLpe+Ka4aCbgvptvxsViYeScOXzTuTMA/j4+RIaF8cSQIXi5uxM1
+ZQof/P3vfPTVVyzcuJGRN954CatybtrFu8L4BfnT5pq2fPfJN1WmlxaV8OzNkziweR+BoYFkns5w
+zLPb7WQkpuPbyA+ACxkQBIQ2pPMfu/L2wfm8fXA+bx14nyfem0iLq8IvqA//xgHkpGVjKz+725aX
+WXkb8sCQQDJOpVdpn56QRoNA3/MX9hsknznD0/Pm8b/16ykuKaH8x11Ks9mMq4sL/j4+FJeVEezv
+T9NGjbi9d2/2xcVd0pqcnQLqCnT/nNEsnrmAlW8uI/VECsd3HWXmkKk07xDONQN7ct2QG9izfhd7
+NuymKL+IT+Yswt3LnXbXdjhnv95+PqScSCH5eBK9B/dh74bdbF/xPQU5BSyZtZAXRsy44BpbXBVO
+aJumLJ61gOKCYta8s5L0hDQAug/sSeKRU3z36WaKC4pZO281Z5Iy6Xbzpdu9AziUkEC3Nm14cODA
+ameYN/LzIykzE1eLhfScHJIyM1m5dSudW7W6pDU5OwXUFejqvp15/ssXiPluP1OjnubNv71G6+6R
+TPlsKmazmaDmwTy3ciZLX17CuB6Pkng4gRlrX8TiYiEwNLDK7pVfkB/hnVoC0KlfZwJDAvnv0+/R
+KCyIaavnsOadLxjfawyx0ceYsfZF3DzcCAyp3kfEj300jWzm2P17bvkMEg+fYlzPR0k7mcbNowbi
+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
+gAqUr+b6AAAAAElFTkSuQmCC
+
+------=_NextPart_000_005F_01CB9647.5FE097F0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.w3c.es/img/ctic.png
+
+iVBORw0KGgoAAAANSUhEUgAAAGcAAAAgCAMAAAA4wpYfAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAAwUExURZqZmHx7evFQDPWETllYVv359vvD
+qMPCwfmqg+7u7fzWwt3d3f3k1/7w6WppZ////28pwqMAAAKdSURBVHjavJeLkqsgDEBBCEQE/P+/
+vSTBNai0u507ZaatQswhIQ9r9u8M810OwBc4Jbg2ML0Rhaw3c1yXMsqom5ROwcZJCw3XPi9JBQOp
+zLkEehRLIJ3BYeBVR3eA6NoisGRApDlsksRpGCca0CHo3YSBm12i1ZwAWVXg5faFLM3uyLiTECBz
+SknMScxxizu0t4d/du/YyKTtycIpxCnN2WxPKMxx6JjDpnROZsdhQhSO8nAhFQRDsjKgC+eSMIvY
+AUWUZWRDIGXxVSCnQqLrFNhvAbo97noSZIWTw+Kz+EsswjTe8M5pdurZkP9HXIv9ah+wODqNc+a+
+k4/yB8SZ5/YXFDBwgFFI9A1E+2rUuPGPXUk4GrVw1h1ACdsWc2ceteRICVvk8V2s/vUwm/w2zmb1
+QtT1remnstCiGc8c4ugWbvS+TgctMYcuYd+qkr1waPucM2HITsQgdvZHLzZUNdk4VThmlI3Xel1y
+nsVWN8fXy6HwkOsoHLuvB70Lxae+EMh3ToqZDhjBmHWY3URjn2ROtW1PLGvXef/J5Ds5JzeYZvte
+919wutvWeZ/joirRHLpNoI7HmyeOf+SMspfz0cFGlT330rNzKFU60ZHjnzj2HScsY+oXyiluMBKp
+N078jINPrS65uT0fc8oDhybXv9hj3vsNJpynPf5w/A/HK459FQf53kKkEfb8ib/h9PwxMI1rao45
+XWOwqHpgDQ8bzypx4dTuP6odImtuHG7O0m/PUsqhDn6sWWbGofpmR9l6rweclcn1JtHa3XK8pgz1
+es7xXK9H2Tp772X17RWGi1A+K6luNnru5HjmXGTr/P26oLQe3SU2Y585deTQ3WpUC7Gv3+MfmsS6
+HUNUw8rjcPqm78qqZL/1f+GfAAMAv3aam2z3pzoAAAAASUVORK5CYII=
+
+------=_NextPart_000_005F_01CB9647.5FE097F0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://www.w3.org/Icons/valid-xhtml11
+
+iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAADAFBMVEUBAAAIBgMMCQQKCgoSDgYX
+EgkaFAoUFBQcHBwlHQ4vJRIwJhM2KxUjIyMoKCg0MzI7OztBNBpGOBxOPh5OSz9TQiFnUilqVCp1
+Rzl0XC5/ZTJOTk5ST0tWUk1VVVVcXFxqXUplZWVra2tya2FwcHB7e3sAWpwIX58JYJ8OY6ERZaIV
+aKQaa6Yebaghb6klcqopdawxea82fbE4frI+grRFhrZMi7pVkb1alL9dlsBkm8NoncRtocZ0pcl8
+qsyWBAOZAACcCASIIBmdNiegDge3PB6mPiqBZzODaDSJbTaOcTiUdjuXeDy6QiG/TCahclPATifB
+UCjIXy/QbzfWej3Yfj+Rh2ulhEKvjEazj0e0gVi3kkm6lEq+mEyjkmuzn2e7pnLFnU7eikXOpFHR
+p1PVqlXarlfesVjjlUrmm03poFDtqVTitFrmuFzqu13zwWD7xWL+y2WDg4OXl5eYmJippZ61rZis
+rKy0tLS/v7+Crs6FsNCLtNKQt9SWu9aYvNebvtifwdqjw9uox92ryd6yzeG20OPCwsLMzMzU1NTA
+1ufG2ujN3+zT4+7d6fL/7Mbn5+fs7Ozl7vXp8fbu9Pj09PTy9/r1+Pv+/v7MzMwAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAACCrylyAAAAmnRSTlP/////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+//////8Ay7CFYwAAAAFiS0dE/6UH8sUAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAMlSURBVEjH7Zb7
+UxJRFMcvGjLUmpYhpWZl42GE8JnhqNjSa8Swxp5OSqULQ1rsI6d0zHGSgQR8lAizt/+2c3d5i6My
+1k99Z7icu8x+9u73nnMuJH7q+vKbicTp0fqpHF/v317/D64OHBIkHAKSKIhsIgcFpqAcYNdFQVBk
+IVQV+DVpVgKEk31kQlE4EjYTJnOYEKuiNBGDEibcAXDE6ca717rXGCRtszlR3S5KM5874nRF1a2w
+kJlzJKjkwILfSqx+AcE1UogcAt4FBxJ/wAADR0HXGFVb8YZEQ0IHi0ZCvAqCLT6fmYQVZYI9Ikwu
+1Dy+UseRimDaC9s42mEfxyFwpVIb4MjQZXK+s9FUu5fdPCsxSAysqQBusprPjHOVV0zdsIpjH0Q0
+/C5Ve1jY2ogu3OjMZkXAYGR2+ohXkrlicIAYxMPASeindB8Afd2CXrSbzamJ/aRmdLDMGYJNZDbv
+cQGsWFsUDXx2enpaZmCez2dFF7qwAdBF6Ri46b4dtnDr6ouzYhwNFo11EoLlErCFLVMDM0kIvscz
+sg524au7oA+SaHeSDgOMpnHvisGfQjJuYEiSQmh0mE20SA6JDBwOYcSEK77PM2XBEXCpXbei4E6B
+HR/jAOhX6VI1lSc/4nXp4DTYYzCStvV+hyE237JDlG5WA36S5eYqbwB9iNFB0DOD0hEYrqpX5Lk5
+8DcAm4rZAJDW5jHoKesVHMGcYBIwEsref/KjHkzluTnwNsAdVoJwW0dFwbmnR5mMDh63ZMEB78Uy
+sPyQf7BY4N7li5uQE9a1Elyj60OaFYObOrljM2tFC5nJgprLwOz9PR/y3Msl3W0EUloJ7mCyudMR
+O0TUa78YtzaRB89WBr/QeJ553V/P09K2GetjY7IbM8QBNmClFze1X6snS/SoFcuTfEGeN2X9WF3V
+vsbwszPqcAyzPUy0mxqWaQnYa61ghTxV4C6etNEHWcEaWe36tQ5fmhbPctyFE58g0gzKr8z5FZFF
+c2X5+zzHPfXD9GWWe/qn9LxH4/6F439B4/6T/xUrR+rru+Pr1c0cuPUYunSY2g5cudrWoIH/AGtu
+hy4iyA0OAAAAAElFTkSuQmCC
+
+------=_NextPart_000_005F_01CB9647.5FE097F0
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/css/base.css
+
+BODY {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 90%
+}
+H1 {
+	TEXT-ALIGN: center
+}
+A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+H1 {
+	CLEAR: both
+}
+H2 {
+	CLEAR: both
+}
+H3 {
+	CLEAR: both
+}
+H2 {
+	BACKGROUND-COLOR: #ffe862; FONT-VARIANT: small-caps; MARGIN-TOP: 1em; =
+MARGIN-BOTTOM: -0.5em; COLOR: #000
+}
+H3 {
+	FONT-VARIANT: small-caps; MARGIN-TOP: 1em; MARGIN-BOTTOM: -0.5em
+}
+H1 IMG {
+	DISPLAY: block; FLOAT: left
+}
+CODE {
+	BACKGROUND-COLOR: transparent; FONT-FAMILY: monospace; COLOR: #8e1a1a
+}
+HR {
+	BACKGROUND-COLOR: #4169e1; MARGIN-TOP: 2em; COLOR: #000
+}
+TD.valores {
+	FONT-FAMILY: monospace
+}
+UL.contenidos LI {
+	LINE-HEIGHT: 1.2em; LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+.contenidos A {
+	BORDER-BOTTOM: #3e67a9 1px dotted; TEXT-DECORATION: none
+}
+.herramientas A {
+	BORDER-BOTTOM: #3e67a9 1px dotted; TEXT-DECORATION: none
+}
+.contenidos A:link {
+	BACKGROUND-COLOR: #fff; COLOR: #3e67a9
+}
+.contenidos A:visited {
+	BACKGROUND-COLOR: #fff; COLOR: #3e67a9
+}
+.herramientas A:link {
+	BACKGROUND-COLOR: #fff; COLOR: #3e67a9
+}
+.herramientas A:visited {
+	BACKGROUND-COLOR: #fff; COLOR: #3e67a9
+}
+.contenidos A:hover {
+	BACKGROUND-COLOR: #fff; COLOR: #3e67a9
+}
+.contenidos A:active {
+	BACKGROUND-COLOR: #fff; COLOR: #3e67a9
+}
+.herramientas A:hover {
+	BACKGROUND-COLOR: #fff; COLOR: #3e67a9
+}
+.herramientas A:active {
+	BACKGROUND-COLOR: #fff; COLOR: #3e67a9
+}
+TABLE {
+	WIDTH: 100%
+}
+TABLE TH {
+	BACKGROUND: #b0c4de; COLOR: #000
+}
+CAPTION {
+	VISIBILITY: hidden
+}
+.impar {
+	BACKGROUND-COLOR: #fff; COLOR: #555
+}
+TR {
+	BACKGROUND-COLOR: #e6ecf6; COLOR: #222
+}
+.center {
+	TEXT-ALIGN: center
+}
+DIV#medios {
+	WIDTH: 62%; MARGIN-BOTTOM: 1em
+}
+DIV#notacion {
+	WIDTH: 37%
+}
+DIV#notacion {
+	FLOAT: left; MARGIN-RIGHT: 1%
+}
+DIV#medios {
+	FLOAT: left
+}
+DIV#notacion TABLE THEAD TR TH:first-child {
+	WIDTH: 7em
+}
+DIV#medios TABLE THEAD TR TH:first-child {
+	WIDTH: 7em
+}
+TABLE THEAD TR TH:first-child {
+	WIDTH: 12em
+}
+TH.propiedad {
+	WIDTH: 12em
+}
+TH.valorInicial {
+	WIDTH: 5em
+}
+TH.descripcion {
+	WIDTH: 25em
+}
+DIV#longitudes {
+	WIDTH: 40%
+}
+TABLE#unidadesColores {
+	WIDTH: 60%
+}
+TABLE#porcentaje {
+	WIDTH: 60%
+}
+DIV#longitudes {
+	FLOAT: left
+}
+TABLE#unidadesColores THEAD TR TH:first-child {
+	WIDTH: 2em
+}
+TABLE#longitudesRelativas THEAD TR TH:first-child {
+	WIDTH: 2em
+}
+TABLE#porcentaje THEAD TR TH:first-child {
+	WIDTH: 2em
+}
+TABLE#longitudesAbsolutas THEAD TR TH:first-child {
+	WIDTH: 2em
+}
+TABLE#unidadesColores THEAD {
+	DISPLAY: none; VISIBILITY: hidden
+}
+TABLE#longitudesRelativas THEAD {
+	DISPLAY: none; VISIBILITY: hidden
+}
+TABLE#porcentaje THEAD {
+	DISPLAY: none; VISIBILITY: hidden
+}
+TABLE#longitudesAbsolutas THEAD {
+	DISPLAY: none; VISIBILITY: hidden
+}
+DIV#sintaxis {
+	WIDTH: 30%; FLOAT: left; MARGIN-RIGHT: 1%
+}
+DIV#unidades {
+	WIDTH: 69%; FLOAT: left
+}
+TABLE.selectores THEAD TR TH:first-child {
+	WIDTH: 8em
+}
+P#modeloCajasImagen {
+	TEXT-ALIGN: center
+}
+DIV#sintaxis PRE {
+	MARGIN-TOP: 2em
+}
+UL#referencias LI {
+	LIST-STYLE-IMAGE: url(../img/arrow_right.gif)
+}
+#piepagina {
+	BACKGROUND-COLOR: #fff; COLOR: #555; FONT-SIZE: 70%
+}
+#piepagina A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none; TEXT-DECORATION: none
+}
+.invisible {
+	VISIBILITY: hidden
+}
+#ayuda {
+	BACKGROUND-COLOR: #ffd7d7; MARGIN: 3em 0px 0px 5%; WIDTH: 90%; COLOR: =
+#191970; FONT-SIZE: small
+}
+#ayuda H2 {
+	BACKGROUND-COLOR: transparent
+}
+.herramientas {
+	TEXT-ALIGN: right
+}
+#breadcrumbs {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; =
+MARGIN-BOTTOM: 25px; FONT-SIZE: 0.7em; PADDING-TOP: 0.5em
+}
+#breadcrumbs UL {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-LEFT: =
+0px; DISPLAY: inline; MARGIN-LEFT: 0px; BORDER-TOP: medium none; =
+BORDER-RIGHT: medium none
+}
+#breadcrumbs UL LI {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; LIST-STYLE-TYPE: =
+none; PADDING-LEFT: 2px; DISPLAY: inline; MARGIN-LEFT: 0px; BORDER-TOP: =
+medium none; LIST-STYLE-IMAGE: none; BORDER-RIGHT: medium none
+}
+.currentPage {
+	FONT-WEIGHT: bold
+}
+
+------=_NextPart_000_005F_01CB9647.5FE097F0
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/css/print.css
+
+
+@media Print   =20
+{
+BODY {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND: #fff; COLOR: =
+#000; FONT-SIZE: 8pt
+}
+H1 {
+	PAGE-BREAK-AFTER: avoid; PAGE-BREAK-INSIDE: avoid
+}
+H2 {
+	PAGE-BREAK-AFTER: avoid; PAGE-BREAK-INSIDE: avoid
+}
+H3 {
+	PAGE-BREAK-AFTER: avoid; PAGE-BREAK-INSIDE: avoid
+}
+A {
+	BACKGROUND-COLOR: transparent; COLOR: #000; FONT-WEIGHT: normal; =
+TEXT-DECORATION: none
+}
+A:link {
+	BACKGROUND-COLOR: transparent; COLOR: #000; FONT-WEIGHT: normal; =
+TEXT-DECORATION: none
+}
+A:visited {
+	BACKGROUND-COLOR: transparent; COLOR: #000; FONT-WEIGHT: normal; =
+TEXT-DECORATION: none
+}
+A:hover {
+	BACKGROUND-COLOR: transparent; COLOR: #000; FONT-WEIGHT: normal; =
+TEXT-DECORATION: none
+}
+A:active {
+	BACKGROUND-COLOR: transparent; COLOR: #000; FONT-WEIGHT: normal; =
+TEXT-DECORATION: none
+}
+A:focus {
+	BACKGROUND-COLOR: transparent; COLOR: #000; FONT-WEIGHT: normal; =
+TEXT-DECORATION: none
+}
+BLOCKQUOTE {
+	PAGE-BREAK-INSIDE: avoid
+}
+PRE {
+	PAGE-BREAK-INSIDE: avoid
+}
+UL {
+	PAGE-BREAK-BEFORE: avoid; PAGE-BREAK-INSIDE: avoid
+}
+OL {
+	PAGE-BREAK-BEFORE: avoid; PAGE-BREAK-INSIDE: avoid
+}
+DL {
+	PAGE-BREAK-BEFORE: avoid; PAGE-BREAK-INSIDE: avoid
+}
+TABLE {
+	PAGE-BREAK-BEFORE: avoid; PAGE-BREAK-INSIDE: avoid
+}
+ABBR {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: =
+none; BORDER-LEFT-STYLE: none
+}
+ACRONYM {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: =
+none; BORDER-LEFT-STYLE: none
+}
+ABBR:after {
+	FONT-VARIANT: small-caps; FONT-SIZE: 7pt; CONTENT: " ["attr(title)"] "
+}
+ACRONYM:after {
+	FONT-VARIANT: small-caps; FONT-SIZE: 7pt; CONTENT: " ["attr(title)"] "
+}
+DIV#notacion DIV#medios {
+	PAGE-BREAK-INSIDE: avoid
+}
+H1 {
+	MARGIN-TOP: 0px
+}
+H2 {
+	BACKGROUND-COLOR: #ffe862; MARGIN-BOTTOM: -0.7em; COLOR: #000
+}
+H3 {
+	MARGIN-BOTTOM: -1em
+}
+#contenidos {
+	DISPLAY: none
+}
+.contenidos {
+	DISPLAY: none
+}
+#ayuda {
+	DISPLAY: none
+}
+.herramientas {
+	DISPLAY: none
+}
+TABLE TD {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+PADDING-TOP: 0.1em
+}
+TH.descripcion {
+	WIDTH: 20em
+}
+P#modeloCajasImagen IMG {
+	WIDTH: 296px; HEIGHT: 224px
+}
+P#modeloCajasImagen {
+	MARGIN-TOP: 2em; WIDTH: 40%; FLOAT: left
+}
+DIV#margenesRelleno {
+	MARGIN-TOP: 4em; WIDTH: 59%; FLOAT: right; CLEAR: none
+}
+DIV#margenesRelleno TH.descripcion {
+	WIDTH: 11em
+}
+DIV#margenesRelleno TH.propiedad {
+	WIDTH: 9em
+}
+DIV#mediosPaginados TH.descripcion {
+	WIDTH: 25em
+}
+H3#bordes {
+	MARGIN-TOP: 0.5em
+}
+DIV#sintaxis PRE {
+	MARGIN-TOP: 4em
+}
+H1 IMG {
+	WIDTH: 279px; MARGIN-BOTTOM: 1em; HEIGHT: 52px
+}
+TD.valores A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none; TEXT-DECORATION: none
+}
+H2#modeloCajas {
+	PAGE-BREAK-BEFORE: always
+}
+H2#fuentes {
+	PAGE-BREAK-BEFORE: always
+}
+H2#detallesVisual {
+	PAGE-BREAK-BEFORE: always
+}
+#referencias {
+	TEXT-ALIGN: right
+}
+#referencias LI {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+#referencias A:after {
+	CONTENT: ": [" attr(href) "]"
+}
+#piepagina .small {
+	DISPLAY: none
+}
+#piepagina ADDRESS {
+	DISPLAY: none
+}
+TABLE TH {
+	BACKGROUND: #b0c4de; COLOR: #000
+}
+.impar {
+	BACKGROUND-COLOR: #fff; COLOR: #555
+}
+TR {
+	BACKGROUND-COLOR: #e6ecf6; COLOR: #222
+}
+#breadcrumbs {
+	DISPLAY: none; VISIBILITY: hidden
+}
+
+}
+
+------=_NextPart_000_005F_01CB9647.5FE097F0
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+Content-Location: http://www.w3c.es/Divulgacion/GuiasReferencia/CSS21/css/aural.css
+
+
+@media Aural    
+{
+H1 {
+	voice-family: paul, male; stress: 20; richness: 90
+}
+H2 {
+	voice-family: paul, male; stress: 20; richness: 90
+}
+H3 {
+	voice-family: paul, male; stress: 20; richness: 90
+}
+H4 {
+	voice-family: paul, male; stress: 20; richness: 90
+}
+H5 {
+	voice-family: paul, male; stress: 20; richness: 90
+}
+H6 {
+	voice-family: paul, male; stress: 20; richness: 90
+}
+H1 {
+	pitch: x-low; pitch-range: 90
+}
+H2 {
+	pitch: x-low; pitch-range: 80
+}
+H3 {
+	pitch: low; pitch-range: 70
+}
+H4 {
+	pitch: medium; pitch-range: 60
+}
+H5 {
+	pitch: medium; pitch-range: 50
+}
+H6 {
+	pitch: medium; pitch-range: 40
+}
+LI {
+	richness: 60; pitch: medium
+}
+DT {
+	richness: 60; pitch: medium
+}
+DD {
+	richness: 60; pitch: medium
+}
+DT {
+	stress: 80
+}
+PRE {
+	stress: 0; richness: 80; pitch: medium; pitch-range: 0
+}
+CODE {
+	stress: 0; richness: 80; pitch: medium; pitch-range: 0
+}
+TT {
+	stress: 0; richness: 80; pitch: medium; pitch-range: 0
+}
+EM {
+	stress: 60; richness: 50; pitch: medium; pitch-range: 60
+}
+STRONG {
+	stress: 90; richness: 90; pitch: medium; pitch-range: 60
+}
+DFN {
+	stress: 60; pitch: high; pitch-range: 60
+}
+S {
+	richness: 0
+}
+STRIKE {
+	richness: 0
+}
+I {
+	stress: 60; richness: 50; pitch: medium; pitch-range: 60
+}
+B {
+	stress: 90; richness: 90; pitch: medium; pitch-range: 60
+}
+U {
+	richness: 0
+}
+A:link {
+	voice-family: harry, male
+}
+A:visited {
+	voice-family: betty, female
+}
+A:active {
+	voice-family: betty, female; pitch: x-high; pitch-range: 80
+}
+
+}
+
+------=_NextPart_000_005F_01CB9647.5FE097F0--
